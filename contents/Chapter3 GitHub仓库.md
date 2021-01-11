@@ -18,11 +18,11 @@
 
 ## 创建远程仓库并从本地拉取
 你当然也可以在远程的网盘创建一个项目文件夹，然后把这个文件夹下载到本地来！
-访问Github官网并登录。
-找到创建仓库的按钮。填写相关信息后创建。
-![](../images/create_rep4.png)
-![](../images/create_rep5.png)
-创建完成后进入仓库，点击Code按钮可以发现。
+访问Github官网并登录。 
+找到创建仓库的按钮。填写相关信息后创建。  
+![](../images/create_rep4.png)    
+![](../images/create_rep5.png)    
+创建完成后打开Github Desktop选择Clone Repository。  
+![](../images/create_rep7.png)    
+选择自己新建完成的仓库clone就可以得到一份和远程仓库相同的本地仓库。  
 
-
-## 个人文档开发的一般操作
