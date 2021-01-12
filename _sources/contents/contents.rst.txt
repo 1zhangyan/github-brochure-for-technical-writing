@@ -1,0 +1,21 @@
+.. GitHub for Technical Writing documentation master file, created by
+   sphinx-quickstart on Mon Jan 11 20:26:28 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+GitHub For Technical Writing
+========================================
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 目录:
+   :numbered:
+   
+   Chapter1.md
+   Chapter2.md
+   Chapter3.md
+   Chapter4.md
+   Chapter5.md
+   Chapter6.md
+   Chapter7.md
+
