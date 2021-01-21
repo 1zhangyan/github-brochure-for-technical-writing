@@ -7,11 +7,16 @@
 访问 https://desktop.github.com/ 下载软件。遇到被墙的问题请自行解决。  
 
 下载安装后，使用之前注册的账号登录Github Desktop并授权。  
-![](../images/install_desktop1.png)   
-![](../images/install_desktop2.png)  
-就可以进入Desktop的界面，开始使用它了。
-![](../images/install_desktop3.png)  
-如果你偏好中文访问这个网址 https://github.com/lkyero/GitHubDesktop_zh 可以给你一个汉化的Desktop。
+  
+![安装界面1](../images/install_desktop1.png)   
+  
+![安装界面2](../images/install_desktop2.png)   
+   
+就可以进入Desktop的界面，开始使用它了。  
+  
+![开始界面](../images/install_desktop3.png)  
+  
+如果你偏好中文访问这个网址 https://github.com/lkyero/GitHubDesktop_zh 可以给你一个汉化的Desktop。  
 
 ## 如果你不喜欢Github Desktop
 这本教程尽可能以简单易操作为宗旨来进行介绍。 
